@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/patakeja/static/css/main.073c9b0a.css",
-    "main.js": "/patakeja/static/js/main.034bbebb.js",
+    "main.css": "/patakeja/static/css/main.64cbb6f4.css",
+    "main.js": "/patakeja/static/js/main.0b80ede2.js",
     "static/js/787.4fa007d6.chunk.js": "/patakeja/static/js/787.4fa007d6.chunk.js",
-    "static/media/logo.svg": "/patakeja/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/patakeja/index.html",
-    "main.073c9b0a.css.map": "/patakeja/static/css/main.073c9b0a.css.map",
-    "main.034bbebb.js.map": "/patakeja/static/js/main.034bbebb.js.map",
+    "main.64cbb6f4.css.map": "/patakeja/static/css/main.64cbb6f4.css.map",
+    "main.0b80ede2.js.map": "/patakeja/static/js/main.0b80ede2.js.map",
     "787.4fa007d6.chunk.js.map": "/patakeja/static/js/787.4fa007d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.034bbebb.js"
+    "static/css/main.64cbb6f4.css",
+    "static/js/main.0b80ede2.js"
   ]
 }
