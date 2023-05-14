@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/patakeja/static/css/main.64cbb6f4.css",
+    "main.css": "/patakeja/static/css/main.756af292.css",
     "main.js": "/patakeja/static/js/main.0b80ede2.js",
     "static/js/787.4fa007d6.chunk.js": "/patakeja/static/js/787.4fa007d6.chunk.js",
     "index.html": "/patakeja/index.html",
-    "main.64cbb6f4.css.map": "/patakeja/static/css/main.64cbb6f4.css.map",
+    "main.756af292.css.map": "/patakeja/static/css/main.756af292.css.map",
     "main.0b80ede2.js.map": "/patakeja/static/js/main.0b80ede2.js.map",
     "787.4fa007d6.chunk.js.map": "/patakeja/static/js/787.4fa007d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64cbb6f4.css",
+    "static/css/main.756af292.css",
     "static/js/main.0b80ede2.js"
   ]
 }
